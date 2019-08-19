@@ -1,0 +1,2 @@
+Estructura base CRM con extenciones para Yii2 actualizados al 26/12/2018 via composer.
+Telintar by PonchiSoft
